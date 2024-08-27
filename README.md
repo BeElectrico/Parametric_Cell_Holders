@@ -7,23 +7,23 @@
 
 # Preface
 
-<This repository outlines the proces of making your own 3d printed battery holder. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide.>
+This repository outlines the proces of making your own 3d printed battery holder. There wasn't really a lot of consolidated information about this so I decided to write it up into a guide.
 
 # Community + Additional Info:
 
 BeEléctrico Comunity Discord: 
-<To be granted acces to the discord channel you must be a patreon: https://www.patreon.com/beelectrico>
+To be granted acces to the discord channel you must be a patreon: https://www.patreon.com/beelectrico
 
-<BeEléctrico Comunity Telegram: https://t.me/+-LhQf8u78tQ0MThk>
-<Without previus aprobation with the admin you can't sell anything on these forums.>
+BeEléctrico Comunity Telegram: https://t.me/+-LhQf8u78tQ0MThk>
+Without previus aprobation with the admin you can't sell anything on these forums.
 
 # Disclaimer!
 
-<Proceed with caution! Many steps in a battery build could lead to injury fire or even explosions especially when dealing with rechargable cells.>
+Proceed with caution! Many steps in a battery build could lead to injury fire or even explosions especially when dealing with rechargable cells.
 
-<Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.>
+Do so at your own risk, I take no responsibility or liability for your own actions, this guide is informational only.
 
-<If you want to learn how to assamble a battery pack safely, I will have a course for you in a few months.>
+If you want to learn how to assamble a battery pack safely, I will have a course for you in a few months.
 
 # Prerequisites:
 
