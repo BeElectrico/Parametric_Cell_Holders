@@ -15,7 +15,7 @@ This repository outlines the proces of making your own 3d printed battery holder
 To be granted acces to the discord channel you must be a patreon: https://www.patreon.com/beelectrico
 
 * BeEléctrico Comunity Telegram: https://t.me/+-LhQf8u78tQ0MThk
-Without previus aprobation with the admin you can't sell anything on these forums.
+    * Without previus aprobation with the admin you can't sell anything on these forums.
 
 # Disclaimer!
 
