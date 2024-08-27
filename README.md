@@ -30,6 +30,6 @@ Do so at your own risk, I take no responsibility or liability for your own actio
 * You know the form factor of the battery you are going to build.
 * You have an account to acces Fusion360 Online or desktop version.
 * You have access to a printer that can print ABS parts, if not PCBWay is an option.
-      * You can use this link to get 5$ Discount on your first 3d printed holder https://pcbway.com/g/1sGQrE 
+   * You can use this link to get 5$ Discount on your first 3d printed holder https://pcbway.com/g/1sGQrE 
 
 # Models and Repositories
