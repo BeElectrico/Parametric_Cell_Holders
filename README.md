@@ -1,6 +1,7 @@
 # Parametric Battery Holder Generator for Fusion 360
 
-![Main Photo](https://github.com/user-attachments/assets/d8499c2a-52a6-42c7-a18f-f1edad704762)
+![Main Photo](https://github.com/user-attachments/assets/1ff1c2cd-3283-4047-a981-936d2a9f9a2a)
+
 
 ### NOTE!!! THIS DOCUMENT IS INCOMPLETE AND A WORK IN PROGRESS!!! MANY ITEMS MAY CHANGE OR BE REMOVED/REWORDED!!!
 
@@ -26,8 +27,8 @@ If you want to learn how to assamble a battery pack safely, I will have a course
 
 # Prerequisites:
 
-· You know the form factor of the battery you are going to build.
-· You have an account to acces Fusion360 Online or desktop version.
-· You have access to a printer that can print ABS parts, if not PCBWay is an option.
+- You know the form factor of the battery you are going to build.
+- You have an account to acces Fusion360 Online or desktop version.
+- You have access to a printer that can print ABS parts, if not PCBWay is an option.
 
 # Models and Repositories
